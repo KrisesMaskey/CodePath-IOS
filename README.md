@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 - DarkMode is added
 
 ## Video Walkthrough
-![](https://i.imgur.com/0tesZ5H.gif)
+![](https://i.imgur.com/LDIRzZE.gif)
 
 
 ## License
